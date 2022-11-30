@@ -70,7 +70,7 @@ function is31Flavors(array){
     return false;
   }
  }
-console.log('task 2:', is31flavors(originalFlavors));
+console.log('task 2:', is31Flavors(originalFlavors));
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 
