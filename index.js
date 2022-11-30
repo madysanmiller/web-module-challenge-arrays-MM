@@ -186,7 +186,6 @@ function filterByWord(array, flavor){
 
 console.log('task 7:', filterByWord(originalFlavors, 'Chocolate'));
 
-
 /* 💪💪💪💪💪🧁🍦🍨 STRETCH 🍨🍦🍫💪💪💪💪💪*/ 
 
 /* STRETCH 1: Write a function that returns the average number of words in an array. You should be able to use this function for any array, but can test with originalFlavors.
